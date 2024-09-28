@@ -1,1 +1,1 @@
-# Plugin.nvim
+# Stackmap.nvim
